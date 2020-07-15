@@ -1,4 +1,4 @@
-Deep Learning Specialization - Coursera
+Explorations in Deep Learning
 ==============
 
-My solutions to programming exercises for this specialization.  
+Exploring Deep Learning. Just some early efforts. 
